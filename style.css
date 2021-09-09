@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(astronaut_spacesuit_reflection_144426_3840x2160.JPG) no-repeat;
+  background: url(https://github.com/Alpharitzi/personal-website/raw/main/astronaut_spacesuit_reflection_144426_3840x2160.JPG) no-repeat;
   background-size: cover;
 
 }
@@ -12,7 +12,7 @@ body{
   text-align: center;
   margin: auto;
   margin-top: 5%;
-  color: white;
+  color: gray;
   font-family: 'Century Gothic',sans-serif;
 }
 .box-img{
